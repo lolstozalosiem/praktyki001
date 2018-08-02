@@ -1,1 +1,1 @@
-# praktyki001
+# Segmentacja elementów morfotycznych krwi 
